@@ -1,4 +1,5 @@
 Lista de exercícios resolvida no senac minas durante a unidade curricular de lógica da programação a baixo estarei descrevendo cada um dos exercícios para ficar compreensível .
+
 exercício 1 - Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
 
 exercício 2 - Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas

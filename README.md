@@ -141,3 +141,20 @@ Digite o incremento: 2
 Contagem: 3 5 7 9 Acabou!
 
 exercício 30) Faça um programa que leia 7 números inteiros e no final mostre o somatório entre eles
+
+exercício 32) Crie um programa que mostre na tela a seguinte contagem, usando a estrutura “faça
+enquanto”
+0 3 6 9 12 15 18 21 24 27 30 Acabou!
+exercício  34) Desenvolva um programa usando a estrutura “para” que mostre na tela a seguinte
+contagem:
+0 5 10 15 20 25 30 35 40 Acabou!
+        
+exercício 35) Desenvolva um programa usando a estrutura “para” que mostre na tela a seguinte
+contagem:
+100 90 80 70 60 50 40 30 20 10 0 Acabou!
+    
+exercício36) Faça um programa usando a estrutura “para” que leia um número inteiro positivo e
+mostre na tela uma contagem de 0 até o valor digitado:
+Ex:
+Digite um valor: 9
+Contagem: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, FIM!
